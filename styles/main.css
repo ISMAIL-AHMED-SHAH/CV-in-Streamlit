@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Readex Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #181818; /* Darker background for a more immersive experience */
+    color: #E0E0E0; /* Light gray text for readability */
+}
+
+a {
+    text-decoration: none;
+    color: #BB86FC !important; /* Bright purple for links */
+    font-weight: 500;
+}
+
+a:hover {
+    color: #FF79C6 !important; /* Change link color on hover for visibility */
+    text-decoration: underline; /* Underline on hover */
+}
+
+ul {
+    list-style-type: none;
+}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+    border: 1px solid #BB86FC; /* Light purple for horizontal rules */
+}
+
+#MainMenu {
+    visibility: hidden; /* Hide the default menu */
+}
+
+footer {
+    visibility: hidden; /* Hide the footer */
+}
+
+header {
+    visibility: hidden; /* Hide the header */
+}
+
+/* Section styling */
+.section {
+    background-color: #242424; /* Slightly lighter dark background for sections */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7); /* Deeper shadow for depth */
+}
+
+h1, h2, h3 {
+    color: #FFFFFF; /* White for headers */
+}
+
+h1 {
+    font-size: 2.5em; /* Larger font size for main title */
+}
+
+h2 {
+    font-size: 2em; /* Slightly smaller for subheadings */
+}
+
+h3 {
+    font-size: 1.5em; /* Smaller for section titles */
+}
