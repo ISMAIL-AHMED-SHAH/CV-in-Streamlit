@@ -28,8 +28,8 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Sales Dashboard - Comparing sales across three stores": "https://portfolio-ismail-ahmed-shah.vercel.app/#projects",
     "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
+    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
 }
 
 
