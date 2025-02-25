@@ -20,7 +20,7 @@ Senior Data Analyst, assisting enterprises by supporting data-driven decision-ma
 """
 EMAIL = "ismailahmedshahpk@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
+    "WhatsApp": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
     "LinkedIn": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
     "GitHub": "https://github.com/ISMAIL-AHMED-SHAH",
     "Twitter": "https://twitter.com",
