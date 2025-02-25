@@ -26,10 +26,10 @@ SOCIAL_MEDIA = {
     "Twitter": "https://twitter.com",
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://portfolio-ismail-ahmed-shah.vercel.app/#projects",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://www.linkedin.com/in/ismail-ahmed-shah-2455b01ba/",
+    "🏆 Projects in Nextjs & Typescript": "https://portfolio-ismail-ahmed-shah.vercel.app/#projects",
+    "🏆 Check real-time weather conditions for any city with a clean and user-friendly interface.": "https://weather-widget-30-daysof-30-projects.vercel.app/",
+    "🏆 Shorten long URLs quickly and easily with this efficient URL shortener app.": "https://url-shortener.vercel.app/",
+    "🏆 Stay organized with this easy-to-use to-do list app that features drag-and-drop functionality.": "https://to-do-list.vercel.app/",
 }
 
 
